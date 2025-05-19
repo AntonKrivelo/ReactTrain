@@ -1,9 +1,10 @@
 import './App.css';
+import CategoriesItems from './Components/CategoriesItems/CategoriesItems';
 
 function App() {
   return (
     <div>
-      123
+      <CategoriesItems />
     </div>
   );
 }
